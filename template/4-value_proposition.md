@@ -8,3 +8,5 @@
 
 *3. Relevant*
 
+* Our application integrates all the events and social activities on the campus in one app, which would prove to be very handy for its users.
+* No more unwanted spam regarding the events on campus. 
